@@ -1,4 +1,4 @@
-![KakaoTalk_20241020_232028824 (1)](https://github.com/user-attachments/assets/9c071627-d56c-4de6-b26a-e51c45f276be)
+![KakaoTalk_20241020_232028824 (1)](https://github.com/user-attachments/assets/ebddec83-3ba9-4b0e-8782-79c936fc5b75)
 
 <div align=center>
   
@@ -24,7 +24,7 @@
 <br><br>
 
 ## 📝 요구 사항 명세서
-![요구사항2](https://github.com/user-attachments/assets/109232ba-7e48-4144-8557-48c9c8474d3e)
+![요구사항2](https://github.com/user-attachments/assets/43ee6794-4718-45e6-acca-9bacc78dfb39)
 
 <div align=center>
 
@@ -34,7 +34,7 @@
 <br><br>
 
 ## 🗓️ WBS
-![image](https://github.com/user-attachments/assets/a2bfcb17-2d78-400f-ac9b-5d1f91d53079)
+![image](https://github.com/user-attachments/assets/db3d8340-3da9-4268-8da9-be6f87512711)
 
 <div align=center>
 
@@ -44,7 +44,7 @@
 <br><br>
 
 ## ☁️ ERD
-![dongsanginong-erd](https://github.com/user-attachments/assets/a2dba445-44e0-4ef4-afc8-32f5b776a46e)
+![dongsanginong-erd](https://github.com/user-attachments/assets/2a2cbefa-3494-4382-b800-d6f03dd82ea0)
 <div align=center>
   
   [⬆️ERD CLOUD 바로가기](https://www.erdcloud.com/d/AgNZCZGaBx6NE8JhL)
@@ -53,29 +53,29 @@
 <br><br>
 
 ## ⚙️ 시스템 아키텍처
-<img width="1324" alt="시스템 아키텍쳐" src="https://github.com/user-attachments/assets/8d9ab59d-10fe-4c53-a1b4-9edad39ffc05">
+<img width="1324" alt="전체" src="https://github.com/user-attachments/assets/58138f35-17d1-4811-bdb8-8a5a9fb98f7c">
 
 <details>
   <summary>WebRTC + OpenVidu 다이어그램</summary>
   <br>
-  
-  ![webrtc](https://github.com/user-attachments/assets/3e09db79-a91a-4b73-a991-de4f50ccd41d)
+
+  <img src="https://github.com/user-attachments/assets/ae488213-562f-4c3c-b248-210d3befd383" width=800>
   <br>
 </details>
 
 <details>
   <summary>OpenSearch 다이어그램</summary>
   <br>
-  
-  ![opensearch](https://github.com/user-attachments/assets/4ce3600f-4da9-4eb3-ba0f-3221cfec1a58)
+
+  <img src="https://github.com/user-attachments/assets/2fee3d31-4374-42be-a7e2-14874df80933" width=800>
   
 </details>
 
 <details>
   <summary>PortOne 결제 다이어그램</summary>
   <br>
-  
-  ![portone](https://github.com/user-attachments/assets/62502ead-5b33-4670-869a-39d1d6f5e2e7)
+
+  <img src="https://github.com/user-attachments/assets/f29b44a3-a614-4295-b0e8-c82487c3b1a5" width=800>
   
 </details>
 
@@ -84,7 +84,7 @@
 ## 📈 프로그램사양서
 <div align=center>
 
-  <img src="https://github.com/user-attachments/assets/7f95cf0b-de2a-46cf-bbb8-5dae99077bbd" width=250>
+  <img src="https://github.com/user-attachments/assets/a9d7bdc9-7773-4769-89d2-0e4797d1b094" width=250>
   
   [⬆️API 명세서 보기](https://documenter.getpostman.com/view/37325338/2sAXxLDEqJ#9c2ba4c5-6901-44e7-ad72-8bc8495ab8e0)
 </div>
@@ -111,9 +111,9 @@
   <br>
 
   * 농장 및 패키지 상품 검색하기<br>
-    ![오픈서치4](https://github.com/user-attachments/assets/61f1f3ab-646f-4810-84a0-becb4ec7a527)
+    ![오픈서치4](https://github.com/user-attachments/assets/caa78397-5b4c-4077-83e2-d7277a4613c8)
     <br>
-    ![오픈서치5](https://github.com/user-attachments/assets/5bdcd24a-27d4-4e4f-a5d2-53f138d96328)
+    ![오픈서치5](https://github.com/user-attachments/assets/9f78aad5-15a5-4275-af9f-a0430f6b1376)
     
 </details>
 
@@ -122,9 +122,9 @@
   <br>
 
   * 구매자 공지글 알림 - 스크랩 한 농장에 공지글이 올라오면 알림<br>
-    ![공지알림](https://github.com/user-attachments/assets/523ad4cd-fbad-4656-b12f-8c28c3ada30c)
+    ![공지알림](https://github.com/user-attachments/assets/443d6190-8ca5-4cf7-80d1-3c7669d14e04)
   * 판매자 구매 알림 - 새로운 주문이 들어오면 알림 <br>
-    ![구매알림](https://github.com/user-attachments/assets/cad50b83-8d68-4468-8e6a-2b8762672d6a)
+    ![구매알림](https://github.com/user-attachments/assets/158f6d88-6695-4cf3-b472-f94b11958e51)
   * 판매자 배송 알림 - 다가오는 배송 알림 <br>
     
     
@@ -160,7 +160,7 @@
   * seller > 상품 삭제 <br>
     ![상품 삭제](https://github.com/user-attachments/assets/9343bac0-5db7-4307-9ee1-d95554f7d968)
   * seller > 리뷰 리스트, 디테일, 삭제 <br>
-    ![리뷰](https://github.com/user-attachments/assets/2cfd0b61-ad16-4d04-b88a-c333ed385619)
+    ![리뷰](https://github.com/user-attachments/assets/4e51ba79-32d5-40bc-9423-3c15eb8a4b27)
   * seller > 쿠폰 리스트, 등록 <br>
     ![쿠폰 등록 리스트](https://github.com/user-attachments/assets/ec77a404-069e-45ee-8ba5-92d4bbf796aa)
 
@@ -256,7 +256,7 @@
   * 농장 디테일 - 패키지 목록 <br>
     ![farmProduct](https://github.com/user-attachments/assets/bfcdd9f2-3ebe-492e-a764-351a76258703)
   * 농장 디테일 - 공지 조회 및 댓글달기 <br>
-    ![댓글2](https://github.com/user-attachments/assets/c9ec7455-19bb-4b8c-8812-be99b5a54bf2)
+    ![댓글2](https://github.com/user-attachments/assets/3de30bd6-f0a1-480b-b73a-5c84661317b0)
   * 농장 디테일 - 리뷰 조회 및 수정 <br>
     ![리뷰](https://github.com/user-attachments/assets/9a8e22ac-3864-43fc-960f-234401b742b2)
     
