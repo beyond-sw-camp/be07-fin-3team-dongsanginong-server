@@ -142,7 +142,8 @@
   * member > 결제 조회 & 영수증 다운로드 <br>
     ![결제-영수증](https://github.com/user-attachments/assets/c65d5644-dd37-46bf-aaf1-d1c448a8d5d0)
   * member > 후기 작성 <br>
-    ![writereview](https://github.com/user-attachments/assets/867c9aeb-333d-4a29-aee4-01f89467c8ee)
+   ![writereview](https://github.com/user-attachments/assets/329bbf2b-123a-44a1-9b9b-73300e1424be)
+
   * member > 내 구독 조회 & 구독 취소 <br>
     ![마이페이지-구독취소](https://github.com/user-attachments/assets/2f1b1dc2-1c69-4deb-8a4c-01ed264431fd)
     
