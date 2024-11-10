@@ -137,13 +137,13 @@
   <br>
 
   * member > 내 배송 목록 조회 <br>
-    ![deliverylist](https://github.com/user-attachments/assets/c5b61eaf-7677-4f27-9ec2-11246b3d7863)
+    ![배송](https://github.com/user-attachments/assets/46e7f8c5-ed92-429e-924f-f54d010158e1)
   * member > 결제 조회 & 영수증 다운로드 <br>
-    ![receipt](https://github.com/user-attachments/assets/b816326f-0958-4f34-be16-c635b4052fcc)
+    ![결제-영수증](https://github.com/user-attachments/assets/c65d5644-dd37-46bf-aaf1-d1c448a8d5d0)
   * member > 후기 작성 <br>
     ![writereview](https://github.com/user-attachments/assets/867c9aeb-333d-4a29-aee4-01f89467c8ee)
   * member > 내 구독 조회 & 구독 취소 <br>
-    ![sublist](https://github.com/user-attachments/assets/d095fef6-765f-43d2-bf11-ae4cad021783)
+    ![마이페이지-구독취소](https://github.com/user-attachments/assets/2f1b1dc2-1c69-4deb-8a4c-01ed264431fd)
     
 </details>
 
@@ -186,7 +186,7 @@
   <br>
 
   * 라이브 목록 + 카테고리 필터링<br>
-    ![livelist](https://github.com/user-attachments/assets/9a53736d-1355-44ec-b62a-50a715bb4cf3)
+    ![라이브 목록-카테고리](https://github.com/user-attachments/assets/a5dd9af1-c48e-413e-9dfa-7e44649a229b)
     
 </details>
 
@@ -195,15 +195,15 @@
   <br>
 
   * seller > 라이브 시작하기 <br>
-    ![livestart](https://github.com/user-attachments/assets/459e0965-ab6a-4710-af36-d1ea8f58ee5b)
+    ![라이브-시작](https://github.com/user-attachments/assets/2fbd618b-3b85-4aae-836f-2f04b571f7c0)
   * seller > 라이브 중 쿠폰 등록 <br>
-    ![livecoupon](https://github.com/user-attachments/assets/dd5aadce-c70c-4db7-be12-a0db12c9e524)
+    ![라이브-쿠폰등록](https://github.com/user-attachments/assets/fc21f579-99c4-4089-bc94-b25e137dae8a)
   * member > 쿠폰 다운로드 <br>
-    ![coupondownload](https://github.com/user-attachments/assets/0466c645-675d-46f2-ae5e-a827daac635f)
+    ![라이브-쿠폰발급](https://github.com/user-attachments/assets/ebc2e41b-0e4c-4fb1-bd64-968720dd3cdc)
   * 라이브 중 member와 seller 채팅  <br>
-    ![livechat](https://github.com/user-attachments/assets/c9769580-6992-4bd4-a79f-9cfa088d5439)
+    ![라이브-채팅](https://github.com/user-attachments/assets/abea9d09-9373-4ebe-8ff5-c554c4823360)
   * member 강퇴시키기  <br>
-    ![quitmember](https://github.com/user-attachments/assets/26506970-4d19-4104-9240-58d767acf2e8)
+    ![라이브-강퇴](https://github.com/user-attachments/assets/dd40b70c-1f5e-4b31-b14f-35d9a5ac6785)
   * 라이브에서 강퇴당한 뒤 구매자의 화면
     ![quitseller](https://github.com/user-attachments/assets/2ee17a61-4ad3-4156-b519-a0b13e717167)
     
@@ -222,7 +222,7 @@
     ![packageDetail-review](https://github.com/user-attachments/assets/30b9cac8-5f8f-45c0-a01a-9593864e0409)
   
   * 상품 주문/결제 <br>
-    ![ordering](https://github.com/user-attachments/assets/246f3ef5-5316-4be4-9def-b1658a56c082)
+    ![상품목록-결제](https://github.com/user-attachments/assets/5bee0300-831f-45af-834c-165c5b26d468)
 
 </details>
 
@@ -233,7 +233,7 @@
   <br>
 
   * 농장 목록 및 스크랩 <br>
-    ![farmListLike](https://github.com/user-attachments/assets/b50646da-fd26-452f-98b8-44271d990a2a)
+    ![농장 목록-위시](https://github.com/user-attachments/assets/6b12b520-d2d2-4bb3-b937-03009c98f6f9)
 
     
   * 농장 목록 카테고리 필터링 <br>
