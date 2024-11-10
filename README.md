@@ -205,7 +205,7 @@
   * member 강퇴시키기  <br>
     ![라이브-강퇴](https://github.com/user-attachments/assets/dd40b70c-1f5e-4b31-b14f-35d9a5ac6785)
   * 라이브에서 강퇴당한 뒤 구매자의 화면
-    ![quitseller](https://github.com/user-attachments/assets/2ee17a61-4ad3-4156-b519-a0b13e717167)
+    ![quitseller](https://github.com/user-attachments/assets/36d22316-d8b6-4180-ae1c-13032349a709)
     
 </details>
 
