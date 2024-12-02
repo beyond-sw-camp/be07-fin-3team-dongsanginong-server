@@ -154,13 +154,17 @@
   <br>
 
   * seller > 운송장 등록 & 배송 관리 <br>
-    ![운송장 번호 등록](https://github.com/user-attachments/assets/6bd520c0-5828-4f2c-a595-b41bdde1b917)
+    ![운송장 번호 등록](https://github.com/user-attachments/assets/ef124627-64ab-4466-9e05-153b37d2cb43)
+
   * seller > 상품 등록 <br>
-    ![상품 등록](https://github.com/user-attachments/assets/3698224c-1bb5-473a-ad1d-2e53178dcbc7)
+    ![상품 등록](https://github.com/user-attachments/assets/268df8dd-0784-425e-81af-eedd8efc2985)
+
   * seller > 상품 수정 <br>
-    ![상품 수정](https://github.com/user-attachments/assets/92bb7ce6-e8dd-4516-9950-64caf13cf6ba)
+    ![상품 수정](https://github.com/user-attachments/assets/bf361737-95ff-4a1d-9ff2-21d08769e500)
+
   * seller > 상품 삭제 <br>
-    ![상품 삭제](https://github.com/user-attachments/assets/9343bac0-5db7-4307-9ee1-d95554f7d968)
+    ![상품 삭제](https://github.com/user-attachments/assets/a5084d72-1b54-4095-be36-2151b4f730ef)
+
   * seller > 리뷰 리스트, 디테일, 삭제 <br>
     ![리뷰](https://github.com/user-attachments/assets/4e51ba79-32d5-40bc-9423-3c15eb8a4b27)
   * seller > 쿠폰 리스트, 등록 <br>
